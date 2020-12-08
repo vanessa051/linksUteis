@@ -13,6 +13,11 @@ Lista de links úteis
     <li>https://color.adobe.com/pt/</li>
   </ul>
   
+  <h3> Gera paleta apartir de uma cor </h3>
+  <ul>
+    <li>https://mycolor.space/</li>
+  </ul>
+  
   <h3> Comprimir imagem </h3>
   <ul>
     <li>https://www.iloveimg.com/pt/comprimir-imagem</li>
@@ -22,3 +27,5 @@ Lista de links úteis
   <ul>
     <li>https://contrastchecker.online/</li>
   </ul>
+  
+  
